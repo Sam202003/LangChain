@@ -1,0 +1,71 @@
+About Samruddhi Chavan
+Overview
+
+Samruddhi Chavan is an Indian software developer and technology enthusiast with a strong passion for building scalable digital products and impactful user interfaces. With hands-on experience in React.js, Flutter, Next.js, and frontend engineering, she has delivered modern and responsive web and mobile applications across multiple domains.
+
+She has worked on real-world client projects and contributes to end-to-end development, from UI/UX implementation to API integration and deployment. Samruddhi is also pursuing her Bachelor of Computer Applications (BCA) through online education while actively working on freelance and professional software projects. She is passionate about continuous learning and is expanding her expertise in cloud technologies, AI integration, and system design to build intelligent applications.
+
+Early Life and Education
+
+Samruddhi is from India and grew up with a vision of working in the technology industry. She is currently pursuing her BCA degree, where she has developed a strong foundation in programming, data structures, and software development. Dedicated to personal growth, she consistently invests time learning new frameworks and tools to stay up to date with evolving industry standards.
+
+Career Journey
+Freelancing and Professional Work
+
+Samruddhi started her career by building frontend projects and modern web applications, taking on both academic and freelance projects that helped her refine her coding skills. Some of her key projects include:
+
+Dynamic Education Platform – Built using React.js with custom UI components, language localization (Marathi, Hindi, Bengali), and API-based course rendering.
+
+Financial App (Flutter – BadiBahen) – Integrated multilingual support, user dashboards, API connections, toggle switches, secure login, and portfolio sections using GetX state management.
+
+E-commerce UI and Landing Pages – Designed responsive layout systems using Tailwind CSS, Ant Design, and Styled Components, ensuring performance optimization.
+
+CouponLink Generator Dashboard (React.js) – Customized UI/UX for popup-based link generation workflows using reusable components.
+
+These experiences helped her build expertise in state management, REST API integration, localization, and component architecture.
+
+Technical Skills
+
+Frontend Development: React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Material UI, Shadcn UI
+
+Mobile Development: Flutter (GetX State Management)
+
+Backend Basics: Node.js, Firebase, Express.js
+
+Tools & Deployment: GitHub, Vercel, Figma, AWS basics
+
+Other Areas: Localization (multi-language apps), UI optimization, responsive design
+
+Content Creation & Learning Mindset
+
+Beyond development, Samruddhi has a strong ambition to grow as a content creator and tech mentor. She is passionate about sharing learning journeys, code tutorials, and project breakdowns to help beginner developers grow confidently. She also aims to improve her English speaking and communication skills to excel in a corporate and client-facing environment.
+
+Vision & Mission
+
+Samruddhi believes in growth through consistency. Her mission is to:
+
+Build digital products that solve real-life problems
+
+Work as a React Frontend Developer in top tech companies
+
+Eventually mentor other developers and launch her own tech brand or agency
+
+Master scalable frontend architecture and AI-powered applications
+
+Personal Values
+
+Discipline over motivation
+
+Keep learning, keep solving
+
+Build with purpose
+
+Never fear challenges – just debug them
+
+External Links
+
+LinkedIn: https://www.linkedin.com/in/samruddhi20/
+
+GitHub/Portfolio: https://github.com/Sam202003
+
+YouTube : https://www.youtube.com/@Samruddhi_Chavan_20
